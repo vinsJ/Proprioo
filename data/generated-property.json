@@ -1,1 +1,911 @@
-{"id":"96890eb6-8689-5e05-9699-15cfc4c8896b","type":"house","rooms":2,"surface":44,"price":285645,"cave":false,"garden":627}
+[
+    {
+        "id": "96890eb6-8689-5e05-9699-15cfc4c8896b",
+        "type": "house",
+        "rooms": 2,
+        "surface": 44,
+        "price": 285645,
+        "cave": false,
+        "garden": 627
+    },
+    {
+        "id": 0,
+        "type": "house",
+        "rooms": 5,
+        "surface": 102,
+        "price": 698334,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 1,
+        "type": "house",
+        "rooms": 5,
+        "surface": 71,
+        "price": 713840,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 2,
+        "type": "house",
+        "rooms": 5,
+        "surface": 115,
+        "price": 698509,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 3,
+        "type": "house",
+        "rooms": 5,
+        "surface": 81,
+        "price": 514480,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 4,
+        "type": "house",
+        "rooms": 5,
+        "surface": 78,
+        "price": 687595,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 5,
+        "type": "house",
+        "rooms": 5,
+        "surface": 98,
+        "price": 494274,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 6,
+        "type": "house",
+        "rooms": 5,
+        "surface": 118,
+        "price": 539728,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 7,
+        "type": "house",
+        "rooms": 5,
+        "surface": 99,
+        "price": 678264,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 8,
+        "type": "house",
+        "rooms": 5,
+        "surface": 78,
+        "price": 468774,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 9,
+        "type": "house",
+        "rooms": 5,
+        "surface": 114,
+        "price": 774512,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 10,
+        "type": "house",
+        "rooms": 5,
+        "surface": 73,
+        "price": 625291,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 11,
+        "type": "house",
+        "rooms": 5,
+        "surface": 106,
+        "price": 508738,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 12,
+        "type": "house",
+        "rooms": 5,
+        "surface": 112,
+        "price": 571264,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 13,
+        "type": "house",
+        "rooms": 5,
+        "surface": 103,
+        "price": 632253,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 14,
+        "type": "house",
+        "rooms": 5,
+        "surface": 71,
+        "price": 587832,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 15,
+        "type": "house",
+        "rooms": 5,
+        "surface": 77,
+        "price": 789046,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 16,
+        "type": "house",
+        "rooms": 5,
+        "surface": 118,
+        "price": 785028,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 17,
+        "type": "house",
+        "rooms": 5,
+        "surface": 111,
+        "price": 691320,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 18,
+        "type": "house",
+        "rooms": 5,
+        "surface": 71,
+        "price": 793726,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 19,
+        "type": "house",
+        "rooms": 5,
+        "surface": 79,
+        "price": 678225,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 20,
+        "type": "house",
+        "rooms": 5,
+        "surface": 84,
+        "price": 580889,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 21,
+        "type": "house",
+        "rooms": 5,
+        "surface": 97,
+        "price": 690106,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 22,
+        "type": "house",
+        "rooms": 5,
+        "surface": 82,
+        "price": 466350,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 23,
+        "type": "house",
+        "rooms": 5,
+        "surface": 112,
+        "price": 788362,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 24,
+        "type": "house",
+        "rooms": 5,
+        "surface": 107,
+        "price": 640342,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 25,
+        "type": "house",
+        "rooms": 5,
+        "surface": 90,
+        "price": 476410,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 26,
+        "type": "house",
+        "rooms": 5,
+        "surface": 83,
+        "price": 504841,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 27,
+        "type": "house",
+        "rooms": 5,
+        "surface": 99,
+        "price": 784772,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 28,
+        "type": "house",
+        "rooms": 5,
+        "surface": 115,
+        "price": 769640,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 29,
+        "type": "house",
+        "rooms": 5,
+        "surface": 82,
+        "price": 504322,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 30,
+        "type": "house",
+        "rooms": 5,
+        "surface": 72,
+        "price": 797136,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 31,
+        "type": "house",
+        "rooms": 5,
+        "surface": 110,
+        "price": 653723,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 32,
+        "type": "house",
+        "rooms": 5,
+        "surface": 115,
+        "price": 593920,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 33,
+        "type": "house",
+        "rooms": 5,
+        "surface": 120,
+        "price": 553972,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 34,
+        "type": "house",
+        "rooms": 5,
+        "surface": 73,
+        "price": 749223,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 35,
+        "type": "house",
+        "rooms": 5,
+        "surface": 111,
+        "price": 743766,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 36,
+        "type": "house",
+        "rooms": 5,
+        "surface": 95,
+        "price": 458614,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 37,
+        "type": "house",
+        "rooms": 5,
+        "surface": 90,
+        "price": 609957,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 38,
+        "type": "house",
+        "rooms": 5,
+        "surface": 83,
+        "price": 727257,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 39,
+        "type": "house",
+        "rooms": 5,
+        "surface": 86,
+        "price": 480079,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 40,
+        "type": "house",
+        "rooms": 5,
+        "surface": 114,
+        "price": 466379,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 41,
+        "type": "house",
+        "rooms": 5,
+        "surface": 120,
+        "price": 451147,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 42,
+        "type": "house",
+        "rooms": 5,
+        "surface": 117,
+        "price": 557688,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 43,
+        "type": "house",
+        "rooms": 5,
+        "surface": 103,
+        "price": 665138,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 44,
+        "type": "house",
+        "rooms": 5,
+        "surface": 98,
+        "price": 705177,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 45,
+        "type": "house",
+        "rooms": 5,
+        "surface": 119,
+        "price": 507266,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 46,
+        "type": "house",
+        "rooms": 5,
+        "surface": 95,
+        "price": 679668,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 47,
+        "type": "house",
+        "rooms": 5,
+        "surface": 98,
+        "price": 738616,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 48,
+        "type": "house",
+        "rooms": 5,
+        "surface": 112,
+        "price": 769561,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 49,
+        "type": "house",
+        "rooms": 5,
+        "surface": 85,
+        "price": 530354,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 50,
+        "type": "house",
+        "rooms": 5,
+        "surface": 87,
+        "price": 658073,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 51,
+        "type": "house",
+        "rooms": 5,
+        "surface": 97,
+        "price": 501531,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 52,
+        "type": "house",
+        "rooms": 5,
+        "surface": 77,
+        "price": 762719,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 53,
+        "type": "house",
+        "rooms": 5,
+        "surface": 74,
+        "price": 728574,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 54,
+        "type": "house",
+        "rooms": 5,
+        "surface": 85,
+        "price": 558863,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 55,
+        "type": "house",
+        "rooms": 5,
+        "surface": 72,
+        "price": 493617,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 56,
+        "type": "house",
+        "rooms": 5,
+        "surface": 83,
+        "price": 708730,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 57,
+        "type": "house",
+        "rooms": 5,
+        "surface": 75,
+        "price": 559514,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 58,
+        "type": "house",
+        "rooms": 5,
+        "surface": 87,
+        "price": 798136,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 59,
+        "type": "house",
+        "rooms": 5,
+        "surface": 79,
+        "price": 497661,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 60,
+        "type": "house",
+        "rooms": 5,
+        "surface": 104,
+        "price": 775255,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 61,
+        "type": "house",
+        "rooms": 5,
+        "surface": 116,
+        "price": 620348,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 62,
+        "type": "house",
+        "rooms": 5,
+        "surface": 72,
+        "price": 570540,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 63,
+        "type": "house",
+        "rooms": 5,
+        "surface": 103,
+        "price": 657903,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 64,
+        "type": "house",
+        "rooms": 5,
+        "surface": 119,
+        "price": 638739,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 65,
+        "type": "house",
+        "rooms": 5,
+        "surface": 85,
+        "price": 638139,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 66,
+        "type": "house",
+        "rooms": 5,
+        "surface": 113,
+        "price": 611928,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 67,
+        "type": "house",
+        "rooms": 5,
+        "surface": 71,
+        "price": 696705,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 68,
+        "type": "house",
+        "rooms": 5,
+        "surface": 94,
+        "price": 593243,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 69,
+        "type": "house",
+        "rooms": 5,
+        "surface": 120,
+        "price": 498486,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 70,
+        "type": "house",
+        "rooms": 5,
+        "surface": 101,
+        "price": 502170,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 71,
+        "type": "house",
+        "rooms": 5,
+        "surface": 84,
+        "price": 641121,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 72,
+        "type": "house",
+        "rooms": 5,
+        "surface": 87,
+        "price": 681732,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 73,
+        "type": "house",
+        "rooms": 5,
+        "surface": 120,
+        "price": 454638,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 74,
+        "type": "house",
+        "rooms": 5,
+        "surface": 112,
+        "price": 581026,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 75,
+        "type": "house",
+        "rooms": 5,
+        "surface": 113,
+        "price": 727190,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 76,
+        "type": "house",
+        "rooms": 5,
+        "surface": 80,
+        "price": 602169,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 77,
+        "type": "house",
+        "rooms": 5,
+        "surface": 85,
+        "price": 512638,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 78,
+        "type": "house",
+        "rooms": 5,
+        "surface": 104,
+        "price": 595634,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 79,
+        "type": "house",
+        "rooms": 5,
+        "surface": 113,
+        "price": 789008,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 80,
+        "type": "house",
+        "rooms": 5,
+        "surface": 73,
+        "price": 604489,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 81,
+        "type": "house",
+        "rooms": 5,
+        "surface": 95,
+        "price": 613239,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 82,
+        "type": "house",
+        "rooms": 5,
+        "surface": 101,
+        "price": 789336,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 83,
+        "type": "house",
+        "rooms": 5,
+        "surface": 120,
+        "price": 589472,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 84,
+        "type": "house",
+        "rooms": 5,
+        "surface": 96,
+        "price": 537352,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 85,
+        "type": "house",
+        "rooms": 5,
+        "surface": 114,
+        "price": 668302,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 86,
+        "type": "house",
+        "rooms": 5,
+        "surface": 92,
+        "price": 596162,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 87,
+        "type": "house",
+        "rooms": 5,
+        "surface": 95,
+        "price": 758626,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 88,
+        "type": "house",
+        "rooms": 5,
+        "surface": 111,
+        "price": 597054,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 89,
+        "type": "house",
+        "rooms": 5,
+        "surface": 107,
+        "price": 674971,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 90,
+        "type": "house",
+        "rooms": 5,
+        "surface": 118,
+        "price": 592177,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 91,
+        "type": "house",
+        "rooms": 5,
+        "surface": 98,
+        "price": 697787,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 92,
+        "type": "house",
+        "rooms": 5,
+        "surface": 111,
+        "price": 651848,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 93,
+        "type": "house",
+        "rooms": 5,
+        "surface": 86,
+        "price": 788245,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 94,
+        "type": "house",
+        "rooms": 5,
+        "surface": 87,
+        "price": 524852,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 95,
+        "type": "house",
+        "rooms": 5,
+        "surface": 112,
+        "price": 761544,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 96,
+        "type": "house",
+        "rooms": 5,
+        "surface": 118,
+        "price": 685886,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 97,
+        "type": "house",
+        "rooms": 5,
+        "surface": 76,
+        "price": 465804,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 98,
+        "type": "house",
+        "rooms": 5,
+        "surface": 87,
+        "price": 755917,
+        "cave": true,
+        "garden": 0
+    },
+    {
+        "id": 99,
+        "type": "house",
+        "rooms": 5,
+        "surface": 70,
+        "price": 698134,
+        "cave": true,
+        "garden": 0
+    }
+]
