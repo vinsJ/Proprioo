@@ -1,4 +1,5 @@
 import math
+import json
 
 from data_loader import load_customers, load_properties
 
@@ -34,11 +35,17 @@ def recommend():
         list_c_score_p = []
         for p in list_proprerties:
             score = compute_score(c, p)
-            list_c_score_p.append({'property': p, 'score': score})
+            list_c_score_p.append({'property': p.__dict__, 'score': score})
 
         list_c_score_p = sort_list_dict_score(list_c_score_p)
-        score_customers_properies.append(list_c_score_p)
-    
+        score_customers_properies.append({'customer': c.id, 'needs': c.search.__dict__, 'recommendations': list_c_score_p[:5]})
 
-recommend()
+    return score_customers_properies
+
+def save_results(list_results):
+    with open('./data/results.json', 'w', encoding='utf-8') as f:
+        json.dump(list_results, f)
+
+save_results(recommend())
+
 
