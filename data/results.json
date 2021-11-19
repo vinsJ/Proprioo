@@ -1,0 +1,3502 @@
+[
+    {
+        "customer": "2fb69044-31b5-5dd7-972d-42df5da66d64",
+        "needs": {
+            "surface": 83,
+            "budget": 586960,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 20,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 84,
+                    "price": 580889,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 7.9870586045157745
+            },
+            {
+                "property": {
+                    "id": 86,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 92,
+                    "price": 596162,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 15.008775089886148
+            },
+            {
+                "property": {
+                    "id": 68,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 94,
+                    "price": 593243,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 37.393250199573956
+            },
+            {
+                "property": {
+                    "id": 14,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 71,
+                    "price": 587832,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 41.58479844077916
+            },
+            {
+                "property": {
+                    "id": 76,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 80,
+                    "price": 602169,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 76.94358059996388
+            }
+        ]
+    },
+    {
+        "customer": "c431a5db-50f3-5ff0-87e4-edba559c8861",
+        "needs": {
+            "surface": 90,
+            "budget": 533181,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 49,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 530354,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 6.323697348105811
+            },
+            {
+                "property": {
+                    "id": 84,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 96,
+                    "price": 537352,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 8.284271034616774
+            },
+            {
+                "property": {
+                    "id": 94,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 524852,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 11.794495096292842
+            },
+            {
+                "property": {
+                    "id": 3,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 81,
+                    "price": 514480,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 111.99820663859603
+            },
+            {
+                "property": {
+                    "id": 77,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 512638,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 129.02163469277642
+            }
+        ]
+    },
+    {
+        "customer": "9484f3e5-4a0e-583d-8d81-c994c675688a",
+        "needs": {
+            "surface": 74,
+            "budget": 766722,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 52,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 77,
+                    "price": 762719,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 5.46803190506643
+            },
+            {
+                "property": {
+                    "id": 98,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 755917,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 62.22507107522249
+            },
+            {
+                "property": {
+                    "id": 34,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 73,
+                    "price": 749223,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 82.4044584981706
+            },
+            {
+                "property": {
+                    "id": 87,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 95,
+                    "price": 758626,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 96.6772340834496
+            },
+            {
+                "property": {
+                    "id": 15,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 77,
+                    "price": 789046,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 119.61923404966991
+            }
+        ]
+    },
+    {
+        "customer": "81cbbd58-d1ac-5832-ab90-35ea918cd0c3",
+        "needs": {
+            "surface": 82,
+            "budget": 550889,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 54,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 558863,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 11.154458211619623
+            },
+            {
+                "property": {
+                    "id": 57,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 75,
+                    "price": 559514,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 13.566038930191208
+            },
+            {
+                "property": {
+                    "id": 84,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 96,
+                    "price": 537352,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 86.029224090037
+            },
+            {
+                "property": {
+                    "id": 62,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 72,
+                    "price": 570540,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 122.5544228462596
+            },
+            {
+                "property": {
+                    "id": 49,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 530354,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 126.82178089176588
+            }
+        ]
+    },
+    {
+        "customer": "55ffb1f1-f860-5d81-b38d-106f9c81ba0f",
+        "needs": {
+            "surface": 86,
+            "budget": 601017,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 76,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 80,
+                    "price": 602169,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 6.181269875609597
+            },
+            {
+                "property": {
+                    "id": 86,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 92,
+                    "price": 596162,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 8.672863782912932
+            },
+            {
+                "property": {
+                    "id": 37,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 90,
+                    "price": 609957,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 12.205760848328229
+            },
+            {
+                "property": {
+                    "id": 68,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 94,
+                    "price": 593243,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 12.827887061909095
+            },
+            {
+                "property": {
+                    "id": 80,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 73,
+                    "price": 604489,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 47.085638038865085
+            }
+        ]
+    },
+    {
+        "customer": "36e51c72-25eb-5b33-bb59-c1b02fcd4bee",
+        "needs": {
+            "surface": 76,
+            "budget": 668928,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 19,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 79,
+                    "price": 678225,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 11.75640348602557
+            },
+            {
+                "property": {
+                    "id": 50,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 658073,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 57.17201622753167
+            },
+            {
+                "property": {
+                    "id": 72,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 681732,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 67.20915088502879
+            },
+            {
+                "property": {
+                    "id": 46,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 95,
+                    "price": 679668,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 93.57243958283524
+            },
+            {
+                "property": {
+                    "id": 4,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 78,
+                    "price": 687595,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 99.506025892161
+            }
+        ]
+    },
+    {
+        "customer": "8a0f938a-9d2c-501b-b277-de3378d1a129",
+        "needs": {
+            "surface": 111,
+            "budget": 500177,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 69,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 120,
+                    "price": 498486,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 9.312192985751306
+            },
+            {
+                "property": {
+                    "id": 45,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 119,
+                    "price": 507266,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 12.824674452582242
+            },
+            {
+                "property": {
+                    "id": 11,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 106,
+                    "price": 508738,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 13.096929813205524
+            },
+            {
+                "property": {
+                    "id": 70,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 101,
+                    "price": 502170,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 31.748091073078367
+            },
+            {
+                "property": {
+                    "id": 5,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 98,
+                    "price": 494274,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 47.60951749577716
+            }
+        ]
+    },
+    {
+        "customer": "8246b9f3-21ca-5e87-a802-09df3816d892",
+        "needs": {
+            "surface": 110,
+            "budget": 541586,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 6,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 118,
+                    "price": 539728,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 8.388931702423363
+            },
+            {
+                "property": {
+                    "id": 84,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 96,
+                    "price": 537352,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 52.69820185702389
+            },
+            {
+                "property": {
+                    "id": 33,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 120,
+                    "price": 553972,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 66.3264210540075
+            },
+            {
+                "property": {
+                    "id": 42,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 117,
+                    "price": 557688,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 87.79924668072722
+            },
+            {
+                "property": {
+                    "id": 49,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 530354,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 134.86050521156935
+            }
+        ]
+    },
+    {
+        "customer": "05a75b6a-1d3e-5092-872c-fa37faab80ef",
+        "needs": {
+            "surface": 99,
+            "budget": 522471,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 94,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 524852,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 41.699528428241585
+            },
+            {
+                "property": {
+                    "id": 49,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 530354,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 53.50643011403419
+            },
+            {
+                "property": {
+                    "id": 77,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 512638,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 54.12078032139927
+            },
+            {
+                "property": {
+                    "id": 11,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 106,
+                    "price": 508738,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 71.43214532426661
+            },
+            {
+                "property": {
+                    "id": 3,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 81,
+                    "price": 514480,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 77.16358842539154
+            }
+        ]
+    },
+    {
+        "customer": "f8232e84-08e6-543e-b460-a56a27a5ecc6",
+        "needs": {
+            "surface": 92,
+            "budget": 575378,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 20,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 84,
+                    "price": 580889,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 10.806694254292665
+            },
+            {
+                "property": {
+                    "id": 12,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 112,
+                    "price": 571264,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 89.6070055196517
+            },
+            {
+                "property": {
+                    "id": 62,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 72,
+                    "price": 570540,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 89.66983756413352
+            },
+            {
+                "property": {
+                    "id": 74,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 112,
+                    "price": 581026,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 89.75211221501347
+            },
+            {
+                "property": {
+                    "id": 54,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 558863,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 90.04151430665182
+            }
+        ]
+    },
+    {
+        "customer": "2db827d2-d2f4-505e-8aab-35a705ef8280",
+        "needs": {
+            "surface": 74,
+            "budget": 775880,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 52,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 77,
+                    "price": 762719,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 53.95548991762913
+            },
+            {
+                "property": {
+                    "id": 15,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 77,
+                    "price": 789046,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 53.97592480758287
+            },
+            {
+                "property": {
+                    "id": 93,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 86,
+                    "price": 788245,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 63.97416584812414
+            },
+            {
+                "property": {
+                    "id": 18,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 71,
+                    "price": 793726,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 86.009061460988
+            },
+            {
+                "property": {
+                    "id": 30,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 72,
+                    "price": 797136,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 110.60249552936077
+            }
+        ]
+    },
+    {
+        "customer": "ae84b047-1e1a-555b-a782-d35b637b7f51",
+        "needs": {
+            "surface": 83,
+            "budget": 656455,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 50,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 658073,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 4.47079095433838
+            },
+            {
+                "property": {
+                    "id": 71,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 84,
+                    "price": 641121,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 73.3059153049561
+            },
+            {
+                "property": {
+                    "id": 63,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 103,
+                    "price": 657903,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 89.46057220801443
+            },
+            {
+                "property": {
+                    "id": 43,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 103,
+                    "price": 665138,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 90.08246756793304
+            },
+            {
+                "property": {
+                    "id": 65,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 638139,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 95.93096457652499
+            }
+        ]
+    },
+    {
+        "customer": "35995902-e6da-56aa-9440-b6ccb13dc874",
+        "needs": {
+            "surface": 76,
+            "budget": 505539,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 29,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 82,
+                    "price": 504322,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 6.239368760841988
+            },
+            {
+                "property": {
+                    "id": 26,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 83,
+                    "price": 504841,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 7.0685027961618845
+            },
+            {
+                "property": {
+                    "id": 59,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 79,
+                    "price": 497661,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 11.478927162983856
+            },
+            {
+                "property": {
+                    "id": 77,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 512638,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 13.441996371898503
+            },
+            {
+                "property": {
+                    "id": 3,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 81,
+                    "price": 514480,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 13.532597117164913
+            }
+        ]
+    },
+    {
+        "customer": "954d609b-9d14-53f2-a68f-6734a7178bb5",
+        "needs": {
+            "surface": 85,
+            "budget": 721413,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 38,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 83,
+                    "price": 727257,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 7.165255996579123
+            },
+            {
+                "property": {
+                    "id": 53,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 74,
+                    "price": 728574,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 37.44439361068942
+            },
+            {
+                "property": {
+                    "id": 1,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 71,
+                    "price": 713840,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 53.136590231451386
+            },
+            {
+                "property": {
+                    "id": 56,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 83,
+                    "price": 708730,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 53.8767174633778
+            },
+            {
+                "property": {
+                    "id": 44,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 98,
+                    "price": 705177,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 89.68542296622519
+            }
+        ]
+    },
+    {
+        "customer": "9ae3f380-8758-5fb8-b3b7-fa708a1683bc",
+        "needs": {
+            "surface": 79,
+            "budget": 501113,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 59,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 79,
+                    "price": 497661,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 4.876440755785528
+            },
+            {
+                "property": {
+                    "id": 29,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 82,
+                    "price": 504322,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 5.435956084177803
+            },
+            {
+                "property": {
+                    "id": 26,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 83,
+                    "price": 504841,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 6.6131861912740195
+            },
+            {
+                "property": {
+                    "id": 55,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 72,
+                    "price": 493617,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 12.69371614869219
+            },
+            {
+                "property": {
+                    "id": 77,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 512638,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 56.71626472707893
+            }
+        ]
+    },
+    {
+        "customer": "11757497-5ea4-57f3-8a68-d0987e232e5a",
+        "needs": {
+            "surface": 79,
+            "budget": 764216,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 52,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 77,
+                    "price": 762719,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 2.6329505862750717
+            },
+            {
+                "property": {
+                    "id": 98,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 755917,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 12.414626488184147
+            },
+            {
+                "property": {
+                    "id": 87,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 95,
+                    "price": 758626,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 64.31865277027184
+            },
+            {
+                "property": {
+                    "id": 34,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 73,
+                    "price": 749223,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 66.69460077609034
+            },
+            {
+                "property": {
+                    "id": 60,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 104,
+                    "price": 775255,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 131.82953385557002
+            }
+        ]
+    },
+    {
+        "customer": "68f5fde9-dbc0-580d-9a83-4a8877cb2875",
+        "needs": {
+            "surface": 95,
+            "budget": 771462,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 60,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 104,
+                    "price": 775255,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 9.98242510409833
+            },
+            {
+                "property": {
+                    "id": 87,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 95,
+                    "price": 758626,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 52.69193108713453
+            },
+            {
+                "property": {
+                    "id": 27,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 99,
+                    "price": 784772,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 54.78393003210244
+            },
+            {
+                "property": {
+                    "id": 48,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 112,
+                    "price": 769561,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 70.12620304752842
+            },
+            {
+                "property": {
+                    "id": 95,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 112,
+                    "price": 761544,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 70.99652734254845
+            }
+        ]
+    },
+    {
+        "customer": "73b70b58-fb7e-5991-99a1-094bd9ef6c22",
+        "needs": {
+            "surface": 110,
+            "budget": 518562,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 11,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 106,
+                    "price": 508738,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 14.216634762753733
+            },
+            {
+                "property": {
+                    "id": 45,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 119,
+                    "price": 507266,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 52.798747466961885
+            },
+            {
+                "property": {
+                    "id": 70,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 101,
+                    "price": 502170,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 91.49615829009407
+            },
+            {
+                "property": {
+                    "id": 51,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 97,
+                    "price": 501531,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 108.19363055432903
+            },
+            {
+                "property": {
+                    "id": 94,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 524852,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 110.64942744953437
+            }
+        ]
+    },
+    {
+        "customer": "bd3b0505-ce88-5d91-9d29-23442f24ac8e",
+        "needs": {
+            "surface": 102,
+            "budget": 687339,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 21,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 97,
+                    "price": 690106,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 6.011574579233134
+            },
+            {
+                "property": {
+                    "id": 17,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 111,
+                    "price": 691320,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 10.20086080270339
+            },
+            {
+                "property": {
+                    "id": 7,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 99,
+                    "price": 678264,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 11.34980436884077
+            },
+            {
+                "property": {
+                    "id": 46,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 95,
+                    "price": 679668,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 11.602227026296578
+            },
+            {
+                "property": {
+                    "id": 91,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 98,
+                    "price": 697787,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 40.052015895702375
+            }
+        ]
+    },
+    {
+        "customer": "fefc84bf-14bb-5ab9-a1aa-1ba758794500",
+        "needs": {
+            "surface": 97,
+            "budget": 559275,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 54,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 558863,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 41.57286984584018
+            },
+            {
+                "property": {
+                    "id": 12,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 112,
+                    "price": 571264,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 80.36823055307029
+            },
+            {
+                "property": {
+                    "id": 42,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 117,
+                    "price": 557688,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 89.4678896296061
+            },
+            {
+                "property": {
+                    "id": 57,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 75,
+                    "price": 559514,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 103.18964160230806
+            },
+            {
+                "property": {
+                    "id": 33,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 120,
+                    "price": 553972,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 110.53181720255309
+            }
+        ]
+    },
+    {
+        "customer": "87737ca6-6bbc-534f-929e-80e12380658e",
+        "needs": {
+            "surface": 106,
+            "budget": 483845,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 5,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 98,
+                    "price": 494274,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 48.082333746889425
+            },
+            {
+                "property": {
+                    "id": 25,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 90,
+                    "price": 476410,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 64.88643820611503
+            },
+            {
+                "property": {
+                    "id": 39,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 86,
+                    "price": 480079,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 89.60643170094609
+            },
+            {
+                "property": {
+                    "id": 69,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 120,
+                    "price": 498486,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 96.89933927465528
+            },
+            {
+                "property": {
+                    "id": 40,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 114,
+                    "price": 466379,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 103.83829014910745
+            }
+        ]
+    },
+    {
+        "customer": "286c0a18-3d48-59da-9bd0-136f0a2c333d",
+        "needs": {
+            "surface": 94,
+            "budget": 520603,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 94,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 524852,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 9.14762364601231
+            },
+            {
+                "property": {
+                    "id": 77,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 512638,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 14.242929608336288
+            },
+            {
+                "property": {
+                    "id": 49,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 530354,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 16.236939731452026
+            },
+            {
+                "property": {
+                    "id": 3,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 81,
+                    "price": 514480,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 47.63417696897903
+            },
+            {
+                "property": {
+                    "id": 11,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 106,
+                    "price": 508738,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 70.5192552249362
+            }
+        ]
+    },
+    {
+        "customer": "0f0fb89d-bad0-5be8-aa48-a793607b2238",
+        "needs": {
+            "surface": 79,
+            "budget": 601735,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 76,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 80,
+                    "price": 602169,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 1.1458715079764292
+            },
+            {
+                "property": {
+                    "id": 80,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 73,
+                    "price": 604489,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 6.971686470379243
+            },
+            {
+                "property": {
+                    "id": 37,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 90,
+                    "price": 609957,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 37.99136672224995
+            },
+            {
+                "property": {
+                    "id": 86,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 92,
+                    "price": 596162,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 47.41955956526193
+            },
+            {
+                "property": {
+                    "id": 68,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 94,
+                    "price": 593243,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 59.117201887790415
+            }
+        ]
+    },
+    {
+        "customer": "373e9c84-64f7-553d-bfa4-d62c115c5f5e",
+        "needs": {
+            "surface": 96,
+            "budget": 761151,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 87,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 95,
+                    "price": 758626,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 3.062073576097912
+            },
+            {
+                "property": {
+                    "id": 98,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 755917,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 10.816248139609828
+            },
+            {
+                "property": {
+                    "id": 60,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 104,
+                    "price": 775255,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 61.01496920231047
+            },
+            {
+                "property": {
+                    "id": 95,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 112,
+                    "price": 761544,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 64.00158525426464
+            },
+            {
+                "property": {
+                    "id": 48,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 112,
+                    "price": 769561,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 64.7218862572842
+            }
+        ]
+    },
+    {
+        "customer": "cdd228fa-128c-50ff-b1a1-a4df19b739bc",
+        "needs": {
+            "surface": 101,
+            "budget": 692137,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 21,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 97,
+                    "price": 690106,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 4.686122747921435
+            },
+            {
+                "property": {
+                    "id": 91,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 98,
+                    "price": 697787,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 7.424395552949118
+            },
+            {
+                "property": {
+                    "id": 0,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 102,
+                    "price": 698334,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 7.515610693695387
+            },
+            {
+                "property": {
+                    "id": 17,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 111,
+                    "price": 691320,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 31.638021249015136
+            },
+            {
+                "property": {
+                    "id": 46,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 95,
+                    "price": 679668,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 52.26453164307873
+            }
+        ]
+    },
+    {
+        "customer": "e06a3299-2bcf-5f32-946d-6ea4a5222b9e",
+        "needs": {
+            "surface": 93,
+            "budget": 789691,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 93,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 86,
+                    "price": 788245,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 7.18663793151017
+            },
+            {
+                "property": {
+                    "id": 82,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 101,
+                    "price": 789336,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 8.009968023499352
+            },
+            {
+                "property": {
+                    "id": 27,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 99,
+                    "price": 784772,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 8.163365907917207
+            },
+            {
+                "property": {
+                    "id": 58,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 798136,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 11.23883024642803
+            },
+            {
+                "property": {
+                    "id": 15,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 77,
+                    "price": 789046,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 64.0041156487926
+            }
+        ]
+    },
+    {
+        "customer": "a1651f7c-a258-58aa-9ab7-4060a3146335",
+        "needs": {
+            "surface": 112,
+            "budget": 766647,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 48,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 112,
+                    "price": 769561,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 3.3280652092446186
+            },
+            {
+                "property": {
+                    "id": 28,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 115,
+                    "price": 769640,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 4.54804479720477
+            },
+            {
+                "property": {
+                    "id": 95,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 112,
+                    "price": 761544,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 5.828111449133592
+            },
+            {
+                "property": {
+                    "id": 9,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 114,
+                    "price": 774512,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 9.202538296247035
+            },
+            {
+                "property": {
+                    "id": 60,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 104,
+                    "price": 775255,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 12.67484146963326
+            }
+        ]
+    },
+    {
+        "customer": "a400a893-4f52-51ee-b989-ae8b734fba0e",
+        "needs": {
+            "surface": 84,
+            "budget": 759129,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 98,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 755917,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 4.752946638252953
+            },
+            {
+                "property": {
+                    "id": 52,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 77,
+                    "price": 762719,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 8.12265248581544
+            },
+            {
+                "property": {
+                    "id": 87,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 95,
+                    "price": 758626,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 36.4874401478805
+            },
+            {
+                "property": {
+                    "id": 34,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 73,
+                    "price": 749223,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 38.21341432018445
+            },
+            {
+                "property": {
+                    "id": 60,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 104,
+                    "price": 775255,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 116.10759497356652
+            }
+        ]
+    },
+    {
+        "customer": "b839b5ed-6e05-5988-b374-95f61bdf1736",
+        "needs": {
+            "surface": 94,
+            "budget": 724944,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 38,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 83,
+                    "price": 727257,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 36.58387401048505
+            },
+            {
+                "property": {
+                    "id": 47,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 98,
+                    "price": 738616,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 60.21492914793402
+            },
+            {
+                "property": {
+                    "id": 75,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 113,
+                    "price": 727190,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 82.86107946790736
+            },
+            {
+                "property": {
+                    "id": 56,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 83,
+                    "price": 708730,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 84.4585240921152
+            },
+            {
+                "property": {
+                    "id": 53,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 74,
+                    "price": 728574,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 89.54427082988579
+            }
+        ]
+    },
+    {
+        "customer": "3686ea7f-fc6f-5224-b140-6c7eddbcc968",
+        "needs": {
+            "surface": 112,
+            "budget": 774620,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 9,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 114,
+                    "price": 774512,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 2.003760890354378
+            },
+            {
+                "property": {
+                    "id": 48,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 112,
+                    "price": 769561,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 5.748047210365574
+            },
+            {
+                "property": {
+                    "id": 28,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 115,
+                    "price": 769640,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 6.404390244348035
+            },
+            {
+                "property": {
+                    "id": 60,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 104,
+                    "price": 775255,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 8.032468210819257
+            },
+            {
+                "property": {
+                    "id": 16,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 118,
+                    "price": 785028,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 37.87408765516246
+            }
+        ]
+    },
+    {
+        "customer": "7019ef62-0e03-56e0-ad80-9b7a257d4adb",
+        "needs": {
+            "surface": 81,
+            "budget": 561253,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 54,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 558863,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 5.116386090211247
+            },
+            {
+                "property": {
+                    "id": 57,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 75,
+                    "price": 559514,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 6.4333630445737295
+            },
+            {
+                "property": {
+                    "id": 62,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 72,
+                    "price": 570540,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 15.318978606428105
+            },
+            {
+                "property": {
+                    "id": 20,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 84,
+                    "price": 580889,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 117.25486641793793
+            },
+            {
+                "property": {
+                    "id": 84,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 96,
+                    "price": 537352,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 166.74177622480116
+            }
+        ]
+    },
+    {
+        "customer": "a6a4a135-ea88-540d-b6af-c03cc61b5969",
+        "needs": {
+            "surface": 89,
+            "budget": 749691,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 98,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 755917,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 7.463605292334581
+            },
+            {
+                "property": {
+                    "id": 87,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 95,
+                    "price": 758626,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 11.936896875244484
+            },
+            {
+                "property": {
+                    "id": 47,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 98,
+                    "price": 738616,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 43.36693024886614
+            },
+            {
+                "property": {
+                    "id": 34,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 73,
+                    "price": 749223,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 64.00228239966741
+            },
+            {
+                "property": {
+                    "id": 52,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 77,
+                    "price": 762719,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 68.3460180167285
+            }
+        ]
+    },
+    {
+        "customer": "ee12d0dd-c895-5dab-aea6-66d1ce439ac3",
+        "needs": {
+            "surface": 110,
+            "budget": 782678,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 23,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 112,
+                    "price": 788362,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 6.728937880129863
+            },
+            {
+                "property": {
+                    "id": 79,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 113,
+                    "price": 789008,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 7.758518958686663
+            },
+            {
+                "property": {
+                    "id": 16,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 118,
+                    "price": 785028,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 8.429466349560517
+            },
+            {
+                "property": {
+                    "id": 9,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 114,
+                    "price": 774512,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 10.059782360252106
+            },
+            {
+                "property": {
+                    "id": 60,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 104,
+                    "price": 775255,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 10.315062203156662
+            }
+        ]
+    },
+    {
+        "customer": "8cacdbff-831f-5aa4-a55b-94fffdf204e2",
+        "needs": {
+            "surface": 78,
+            "budget": 515571,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 3,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 81,
+                    "price": 514480,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 3.362835936798162
+            },
+            {
+                "property": {
+                    "id": 77,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 512638,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 8.10465066753689
+            },
+            {
+                "property": {
+                    "id": 94,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 524852,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 15.75026974407362
+            },
+            {
+                "property": {
+                    "id": 26,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 83,
+                    "price": 504841,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 49.813911592112284
+            },
+            {
+                "property": {
+                    "id": 29,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 82,
+                    "price": 504322,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 52.113364546090686
+            }
+        ]
+    },
+    {
+        "customer": "7fce6a0c-bd49-546a-bb81-1cbf407adece",
+        "needs": {
+            "surface": 95,
+            "budget": 517664,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 94,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 524852,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 12.798775257055194
+            },
+            {
+                "property": {
+                    "id": 77,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 512638,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 32.38514221328688
+            },
+            {
+                "property": {
+                    "id": 11,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 106,
+                    "price": 508738,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 38.534525201472725
+            },
+            {
+                "property": {
+                    "id": 3,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 81,
+                    "price": 514480,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 52.56979982479804
+            },
+            {
+                "property": {
+                    "id": 49,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 530354,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 71.02161435398384
+            }
+        ]
+    },
+    {
+        "customer": "936c7244-e6c6-5531-b4b5-6eac19820df8",
+        "needs": {
+            "surface": 83,
+            "budget": 561154,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 54,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 558863,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 3.654226322990696
+            },
+            {
+                "property": {
+                    "id": 57,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 75,
+                    "price": 559514,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 8.29415337331839
+            },
+            {
+                "property": {
+                    "id": 62,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 72,
+                    "price": 570540,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 38.57450644532383
+            },
+            {
+                "property": {
+                    "id": 20,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 84,
+                    "price": 580889,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 117.82209479981611
+            },
+            {
+                "property": {
+                    "id": 12,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 112,
+                    "price": 571264,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 161.89645628461238
+            }
+        ]
+    },
+    {
+        "customer": "9177c28a-02d7-5bb1-bf01-4be5d17092f9",
+        "needs": {
+            "surface": 77,
+            "budget": 630139,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 10,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 73,
+                    "price": 625291,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 7.300567442436757
+            },
+            {
+                "property": {
+                    "id": 65,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 638139,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 12.867202214360114
+            },
+            {
+                "property": {
+                    "id": 71,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 84,
+                    "price": 641121,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 46.41470969263769
+            },
+            {
+                "property": {
+                    "id": 81,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 95,
+                    "price": 613239,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 116.3496302688619
+            },
+            {
+                "property": {
+                    "id": 37,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 90,
+                    "price": 609957,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 122.98261282770214
+            }
+        ]
+    },
+    {
+        "customer": "83e38e48-d7bb-5a9c-8d8b-6b2b3997bb48",
+        "needs": {
+            "surface": 79,
+            "budget": 698295,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 67,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 71,
+                    "price": 696705,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 8.223161780203185
+            },
+            {
+                "property": {
+                    "id": 99,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 70,
+                    "price": 698134,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 9.00206200904684
+            },
+            {
+                "property": {
+                    "id": 56,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 83,
+                    "price": 708730,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 39.69078619704618
+            },
+            {
+                "property": {
+                    "id": 4,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 78,
+                    "price": 687595,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 42.479659065849525
+            },
+            {
+                "property": {
+                    "id": 1,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 71,
+                    "price": 713840,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 74.83880509569119
+            }
+        ]
+    },
+    {
+        "customer": "24a8eeaf-22e7-5955-ae48-0f3d350dd25a",
+        "needs": {
+            "surface": 87,
+            "budget": 477678,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 25,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 90,
+                    "price": 476410,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 3.516520432437429
+            },
+            {
+                "property": {
+                    "id": 39,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 86,
+                    "price": 480079,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 3.615021837491738
+            },
+            {
+                "property": {
+                    "id": 8,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 78,
+                    "price": 468774,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 15.715345684562713
+            },
+            {
+                "property": {
+                    "id": 22,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 82,
+                    "price": 466350,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 54.58977765572071
+            },
+            {
+                "property": {
+                    "id": 97,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 76,
+                    "price": 465804,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 69.80638216645941
+            }
+        ]
+    },
+    {
+        "customer": "56ed781f-59c5-51ed-bf1b-b7c93e6f0507",
+        "needs": {
+            "surface": 85,
+            "budget": 651610,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 50,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 658073,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 8.252474001385085
+            },
+            {
+                "property": {
+                    "id": 71,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 84,
+                    "price": 641121,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 41.102551935769924
+            },
+            {
+                "property": {
+                    "id": 65,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 638139,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 60.1696717122725
+            },
+            {
+                "property": {
+                    "id": 63,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 103,
+                    "price": 657903,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 76.76441483906069
+            },
+            {
+                "property": {
+                    "id": 43,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 103,
+                    "price": 665138,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 98.81267859963211
+            }
+        ]
+    },
+    {
+        "customer": "5da79228-d54f-5ded-956b-67fddb3c5af7",
+        "needs": {
+            "surface": 109,
+            "budget": 762532,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 95,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 112,
+                    "price": 761544,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 3.2062649810574375
+            },
+            {
+                "property": {
+                    "id": 48,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 112,
+                    "price": 769561,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 8.590293234910861
+            },
+            {
+                "property": {
+                    "id": 28,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 115,
+                    "price": 769640,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 10.11225802168778
+            },
+            {
+                "property": {
+                    "id": 9,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 114,
+                    "price": 774512,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 47.786890653394615
+            },
+            {
+                "property": {
+                    "id": 87,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 95,
+                    "price": 758626,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 52.57383499004645
+            }
+        ]
+    },
+    {
+        "customer": "7acb3b68-6248-5c06-9c84-9d4f7a4c5456",
+        "needs": {
+            "surface": 77,
+            "budget": 766786,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 52,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 77,
+                    "price": 762719,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 4.644479870388007
+            },
+            {
+                "property": {
+                    "id": 98,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 755917,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 51.91068250459254
+            },
+            {
+                "property": {
+                    "id": 87,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 95,
+                    "price": 758626,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 76.93397991914519
+            },
+            {
+                "property": {
+                    "id": 34,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 73,
+                    "price": 749223,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 85.1877518875356
+            },
+            {
+                "property": {
+                    "id": 93,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 86,
+                    "price": 788245,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 112.66065246861432
+            }
+        ]
+    },
+    {
+        "customer": "37212a6a-d6d4-5ace-964b-3a9a1f101da0",
+        "needs": {
+            "surface": 103,
+            "budget": 601288,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 78,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 104,
+                    "price": 595634,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 7.359714551418584
+            },
+            {
+                "property": {
+                    "id": 88,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 111,
+                    "price": 597054,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 9.685758932850536
+            },
+            {
+                "property": {
+                    "id": 68,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 94,
+                    "price": 593243,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 13.73459051677294
+            },
+            {
+                "property": {
+                    "id": 86,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 92,
+                    "price": 596162,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 37.07693782927134
+            },
+            {
+                "property": {
+                    "id": 32,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 115,
+                    "price": 593920,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 42.64135583809666
+            }
+        ]
+    },
+    {
+        "customer": "b6cd268c-3701-573f-8c1d-17e213323f17",
+        "needs": {
+            "surface": 100,
+            "budget": 589821,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 68,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 94,
+                    "price": 593243,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 7.473528175328871
+            },
+            {
+                "property": {
+                    "id": 78,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 104,
+                    "price": 595634,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 8.560970160016065
+            },
+            {
+                "property": {
+                    "id": 86,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 92,
+                    "price": 596162,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 11.49653473846172
+            },
+            {
+                "property": {
+                    "id": 88,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 111,
+                    "price": 597054,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 37.678887808961626
+            },
+            {
+                "property": {
+                    "id": 74,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 112,
+                    "price": 581026,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 43.11780276350158
+            }
+        ]
+    },
+    {
+        "customer": "332959c8-4c78-5a70-a7b6-47f9b49d6ab1",
+        "needs": {
+            "surface": 76,
+            "budget": 660705,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 50,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 658073,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 36.62628696978646
+            },
+            {
+                "property": {
+                    "id": 19,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 79,
+                    "price": 678225,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 91.49558424875934
+            },
+            {
+                "property": {
+                    "id": 71,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 84,
+                    "price": 641121,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 108.0454183555884
+            },
+            {
+                "property": {
+                    "id": 72,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 681732,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 124.03189964772987
+            },
+            {
+                "property": {
+                    "id": 46,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 95,
+                    "price": 679668,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 131.14854894105946
+            }
+        ]
+    },
+    {
+        "customer": "aeab8611-6303-555b-9e8b-7fbe7fe7741d",
+        "needs": {
+            "surface": 102,
+            "budget": 740323,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 47,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 98,
+                    "price": 738616,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 4.464965376094297
+            },
+            {
+                "property": {
+                    "id": 35,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 111,
+                    "price": 743766,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 9.84948050749691
+            },
+            {
+                "property": {
+                    "id": 75,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 113,
+                    "price": 727190,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 66.02769383145306
+            },
+            {
+                "property": {
+                    "id": 87,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 95,
+                    "price": 758626,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 90.52120625311142
+            },
+            {
+                "property": {
+                    "id": 98,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 755917,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 92.90046875655058
+            }
+        ]
+    },
+    {
+        "customer": "8e4e271e-8a96-5bab-ab31-7fd25b0fb983",
+        "needs": {
+            "surface": 111,
+            "budget": 511271,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 11,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 106,
+                    "price": 508738,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 6.127747699018631
+            },
+            {
+                "property": {
+                    "id": 45,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 119,
+                    "price": 507266,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 9.765902076350608
+            },
+            {
+                "property": {
+                    "id": 70,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 101,
+                    "price": 502170,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 34.08818705412203
+            },
+            {
+                "property": {
+                    "id": 51,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 97,
+                    "price": 501531,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 54.12534042464871
+            },
+            {
+                "property": {
+                    "id": 69,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 120,
+                    "price": 498486,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 65.0935741026325
+            }
+        ]
+    },
+    {
+        "customer": "fb048875-3f4d-5487-92f6-c84b8c5c9dac",
+        "needs": {
+            "surface": 90,
+            "budget": 515348,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 77,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 512638,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 6.265042594477618
+            },
+            {
+                "property": {
+                    "id": 3,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 81,
+                    "price": 514480,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 9.080857411506486
+            },
+            {
+                "property": {
+                    "id": 94,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 524852,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 13.574678124425807
+            },
+            {
+                "property": {
+                    "id": 26,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 83,
+                    "price": 504841,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 49.04490731515044
+            },
+            {
+                "property": {
+                    "id": 29,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 82,
+                    "price": 504322,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 51.56495376657947
+            }
+        ]
+    },
+    {
+        "customer": "00f573b1-6758-5dd5-b8d6-e936747050fc",
+        "needs": {
+            "surface": 94,
+            "budget": 521869,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 94,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 524852,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 8.127164923019322
+            },
+            {
+                "property": {
+                    "id": 49,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 530354,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 14.797179063675953
+            },
+            {
+                "property": {
+                    "id": 77,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 512638,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 15.629495572632186
+            },
+            {
+                "property": {
+                    "id": 3,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 81,
+                    "price": 514480,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 47.97518967008978
+            },
+            {
+                "property": {
+                    "id": 11,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 106,
+                    "price": 508738,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 77.60889959273833
+            }
+        ]
+    },
+    {
+        "customer": "70b46a56-8b4b-51d2-bfc3-071785b392b6",
+        "needs": {
+            "surface": 81,
+            "budget": 540034,
+            "rooms": 5
+        },
+        "recommendations": [
+            {
+                "property": {
+                    "id": 49,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 530354,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 13.766337135597562
+            },
+            {
+                "property": {
+                    "id": 84,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 96,
+                    "price": 537352,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 58.20927556110245
+            },
+            {
+                "property": {
+                    "id": 94,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 87,
+                    "price": 524852,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 80.23829308580798
+            },
+            {
+                "property": {
+                    "id": 54,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 85,
+                    "price": 558863,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 111.75626158024633
+            },
+            {
+                "property": {
+                    "id": 57,
+                    "type": "house",
+                    "rooms": 5,
+                    "surface": 75,
+                    "price": 559514,
+                    "cave": true,
+                    "garden": 0
+                },
+                "score": 115.70175316020843
+            }
+        ]
+    }
+]
