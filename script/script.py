@@ -38,26 +38,26 @@ def sort_list_dict_score(list_dict):
     """
     return sorted(list_dict, key=lambda d: d['score'])
 
-
 def recommend():
-    """ Function that gives the top 5 properties for a given customer
+    """ Function that gives the top 5 cutomer for a given property
 
     :return: list of dictionnary """
 
-    score_customers_properies = []
+    score_property_customer = []
 
-    for c in list_customers:
-        list_c_score_p = []
-        for p in list_proprerties:
+    for p in list_proprerties:
+        list_p_score_c = []
+        for c in list_customers:
             score = compute_score(c, p)
-            list_c_score_p.append({'property': p.__dict__, 'score': score})
+            list_p_score_c.append({'client': {'id': c.id, 'needs': c.search.__dict__}, 
+            'score': score})
 
-        list_c_score_p = sort_list_dict_score(list_c_score_p)
-        score_customers_properies.append(
-            {'customer': c.id, 'needs': c.search.__dict__,
-             'recommendations': list_c_score_p[:5]})
+        list_p_score_c = sort_list_dict_score(list_p_score_c)
+        score_property_customer.append(
+            {'property': p.id, 'attributes': {'price': p.price, 'surface': p.surface},
+                'recommendations': list_p_score_c[:5]})
 
-    return score_customers_properies
+    return score_property_customer
 
 
 def save_results(list_results):
