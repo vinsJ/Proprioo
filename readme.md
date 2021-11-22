@@ -6,7 +6,7 @@ Hello ! this is my technical test for the internship application at Proprioo �
 
 Well, first of all, you might want to know who I am, right ? 
 
-My name is Vincent. I'm a last year student in Engeneering specialized in Data Science and Artificial Intelligence 📊💻 at ESILV. 
+My name is Vincent. I'm a last year student in Engineering specialized in Data Science and Artificial Intelligence 📊💻 at ESILV. 
 
 ## Why Data Science ? 📊
 
@@ -24,7 +24,7 @@ Not nice.
 
 So, we came up with our solution : the mentoring association of the Pole Leonard Da Vinci. Older student help younger ones through **free** courses all year. 
 
-Today, we are a team of 60. I managed day-to-day a 6 members team. Our mission is to make all the courses process work (from signup to the course).
+Today, we are a team of 60. I manage day-to-day a 6 members team. Our mission is to make all the courses process work (from signup to the course).
 
 I learned so much about team working and team management!
 
@@ -42,7 +42,7 @@ Based on this ideas, I first wanted to get to know my data a little bit better. 
 
 Then, I wanted to generate some property because after a first look, I saw that my customers did not match the property. 
 
-Fianlly, I had to create the script. I had 3 possible solutions (a lot more actually, but these were the first coming to my mind) :
+Fianally, I had to create the script. I had 3 possible solutions (a lot more actually, but these were the first coming to my mind) :
 
 - IF - THEN script : not really elegant, but functional
 - Scoring system with an Heuristic (Fancy words, I like that)
